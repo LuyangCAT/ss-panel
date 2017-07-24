@@ -4,7 +4,7 @@
     <section class="content-header">
         <h1>
             统计信息
-            <small>A</small>
+            <small>@</small>
         </h1>
     </section>
     <!-- Main content -->
@@ -16,7 +16,7 @@
                 <!-- general form elements -->
                 <div class="box box-primary">
                     <div class="box-body">
-                        <p>Coming soon...</p>
+                        <p>今天健身了吗？</p>
                     </div><!-- /.box -->
                 </div>
             </div>
