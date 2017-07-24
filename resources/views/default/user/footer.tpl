@@ -3,9 +3,9 @@
         {$userFooter}
     </div>
     <div class="pull-right hidden-xs">
-        Made with <a href="https://91vps.club/" target="_blank">ss-panel</a>
+        Made with <a href="https://luyang.today" target="_blank">Luyang</a>
     </div>
-    <center>愿每个人都能被这个世界温柔对待</center>
+    <center>一起都是刚刚开始~</center>
 </footer>
 </div><!-- ./wrapper -->
 
