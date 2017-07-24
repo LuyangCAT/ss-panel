@@ -3,9 +3,9 @@
         {$userFooter}
     </div>
     <div class="pull-right hidden-xs">
-        Made with <a href="https://github.com/mmmwhy/ss-panel-and-ss-py-mu" target="_blank">ss-panel一键脚本</a>
+        Made with <a href="https://luyang.today" target="_blank">Luyang</a>
     </div>
-    <center>愿每个人都能被这个世界温柔对待</center>
+    <center>愿每个人都能自由~</center>
 </footer>
 </div><!-- ./wrapper -->
 
